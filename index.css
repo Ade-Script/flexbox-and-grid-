@@ -1,0 +1,36 @@
+.orange{
+			background-color: orange;
+		}
+		.blue{
+			background-color: blue;
+		}
+		.green{
+			background-color: green;
+		}
+		.flex-container{
+			display: flex;
+			width: 500px;
+			height: 400px;
+			color: white;
+			font-family: 'Courier New', Monaco;
+			}
+
+		.one {
+			background-color: orange;
+			color: white;
+			border-radius: 70px;
+			border-color: white;
+		}
+		.two {
+			background-color: blue;
+			color: white;
+			border-radius: 70px;
+			border-color:white;
+		}
+		.three{
+			background-color: green;
+			color:white;
+			border-radius: 70px;
+			border-color: white;
+
+		}
